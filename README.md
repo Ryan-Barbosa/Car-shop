@@ -72,5 +72,3 @@ Enter the number of your choice: 2
 - There’s an **example entry** of the car database to show how the data is structured.
 - **Running the Program** provides a simple way to execute the script.
 - The **example output** gives a preview of what the program looks like when run.
-
-This is formatted for easy copying and pasting into your `README.md` file.
